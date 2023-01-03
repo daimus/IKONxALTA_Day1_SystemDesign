@@ -18,3 +18,5 @@ Dengan tujuan yang sama, tuliskan dalam bentuk perintah:
 1. Redis
 2. Neo4j
 3. Cassandra
+
+**[JAWAB](./problem2.md)**
