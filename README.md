@@ -7,6 +7,8 @@ Akan dikembangkan sistem yang dapat digunakan untuk mencatat pengeluaran seseora
 1. Buatlah design ERD dari diagram diatas
 2. Gambarkan use case diagram dari sistem tersebut
 
+**[JAWAB](./problem1.md)**
+
 ## Problem 2  - Query (Optional - Nilai Tambah)
 Terdapat sebuah query dalam format sql
 ```
